@@ -121,6 +121,24 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="spree_sberbank_processing (v3.1.0, /home/pserg/Work/spree_sberbank_processing) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../spree_sberbank_processing/app" />
+          <root url="file://$MODULE_DIR$/../spree_sberbank_processing/bin" />
+          <root url="file://$MODULE_DIR$/../spree_sberbank_processing/lib" />
+          <root url="file://$MODULE_DIR$/../spree_sberbank_processing/.idea" />
+          <root url="file://$MODULE_DIR$/../spree_sberbank_processing/config" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../spree_sberbank_processing/app" />
+          <root url="file://$MODULE_DIR$/../spree_sberbank_processing/bin" />
+          <root url="file://$MODULE_DIR$/../spree_sberbank_processing/lib" />
+          <root url="file://$MODULE_DIR$/../spree_sberbank_processing/.idea" />
+          <root url="file://$MODULE_DIR$/../spree_sberbank_processing/config" />
+        </SOURCES>
+      </library>
+    </orderEntry>
     <orderEntry type="library" scope="PROVIDED" name="arel (v6.0.3, RVM: ruby-1.9.3-p551 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="binding_of_caller (v0.7.2, RVM: ruby-1.9.3-p551 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, RVM: ruby-1.9.3-p551 [global]) [gem]" level="application" />
